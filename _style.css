@@ -1,0 +1,25 @@
+body {
+   background-color: #198754;
+   font-size: 15px;
+   font-family: Montserrat;
+}
+.card {
+   float: left;
+}
+span {
+   font-size: 2rem;
+   padding-left: 4px;
+}
+#counter {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+#top {
+   width: 100%;
+   text-align: center;
+}
+.form-check-input:checked {
+   background-color: #0d6e0d;
+   border-color: #0d6e0d;
+}

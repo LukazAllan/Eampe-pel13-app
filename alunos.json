@@ -1,0 +1,40 @@
+{
+	"conf":{
+		"Pelotao": "13",
+		"comcia": "SO-FN-CT GALVÃO",
+		"compel": "2°SG-OR EDÊR",
+		"Xerife": 19
+	},
+	"alunos":{
+		"1301 Daniel": [],
+		"1302 Mesquita": [],
+		"1303 Brito": [],
+		"1304 Jesus": ["GRAMMD"],
+		"1305 Zerino": ["Casa Comca"],
+		"1306 Allan Assis": ["Banda"],
+		"1307 Viana": [],
+		"1308 Buhaten": ["Reparo", "Taifeiro"],
+		"1309 Klinsmann": ["Barbeiro"],
+		"1310 Igor Farias": ["Biblioteca"],
+		"1311 João Batista": ["Roupeiro", "Taifeiro"],
+		"1312 Abreu": [],
+		"1313 Dantas": ["Sargenteante"],
+		"1314 Pinto": [],
+		"1315 Eduardo": [],
+		"1316 Miquéias": ["Banda"],
+		"1317 Arthur": ["Roupeiro"],
+		"1318 Bithencourt": [],
+		"1319 Tadeu": [],
+		"1320 Ronaldo": [],
+		"1321 Juan": [],
+		"1322 Jorge": ["Detalhista"],
+		"1323 Anderson": [],
+		"1324 Silva Costa": ["Banda"],
+		"1325 Barros": [],
+		"1326 Botelho": ["Casa 02"],
+		"1327 Rodrigues": ["Banda","Barbeiro"],
+		"1328 A. Florêncio": [],
+		"1329 M. Cruz": [],
+		"1330 O. Calado": []
+	}
+}

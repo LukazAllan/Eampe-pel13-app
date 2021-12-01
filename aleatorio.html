@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="assets/bootstrap.min.css" rel="stylesheet">
+      <script src="assets/bootstrap.bundle.min.js"></script>
+      <script src="assets/popper.min.js"></script>
+      <script src="assets/bootstrap.min.js"></script>
+      <script src="assets/aleatorio.js"></script>
+      <title>Verificação de Presença</title>
+      <style type="text/css">
+         body {
+          font-size: 30px;
+         }
+         .card {
+         float: left;
+         }
+         span {
+          font-size: 3.5rem;
+         }
+         #box {
+          width: 100%;
+         }
+         .centro {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+         }
+         #top {
+            width: 100%;
+            text-align: center;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="centro">
+         <div class="card">
+           <div class="card-header">
+             Escolhendo Aluno
+           </div>
+           <div id="box" class="card-body bg-success">
+             <p id="trouxa" class="card-text"></p>
+           </div>
+         </div>
+      </div>
+      <button type="button" class="btn btn-primary" onclick="newAluno()">Próximo</button>
+   </body>
+</html>
